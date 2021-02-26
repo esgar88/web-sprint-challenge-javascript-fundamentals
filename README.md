@@ -25,7 +25,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
-   For each does not mutate the array and map returns a completly new array
+   For each does not mutate the array and map returns a completly new array.
 
 2. Explain the difference between a callback and a higher order function.
    A call back function is passed into another function with the understanding that the funciton will be used. A higer order function takes another function as an arugment and returns a function to its caller
